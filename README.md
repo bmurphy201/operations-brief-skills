@@ -166,8 +166,8 @@ shasum -a 256 purchase-verdict-v1.0.zip    # macOS
 sha256sum purchase-verdict-v1.0.zip        # Linux
 ```
 
-The ZIP and the [`purchase-verdict/`](purchase-verdict/) folder in this repository are the same six
-files.
+The ZIP and the [`purchase-verdict/`](purchase-verdict/) folder in this repository are the same seven
+files, including the MIT `LICENSE` that travels with the download.
 
 ---
 
@@ -199,8 +199,13 @@ operations-brief-skills/
   purchase-verdict/       the first skill
     START-HERE.md         what it is, what you need, the three routes
     SKILL.md              the procedure itself
+    LICENSE               the same MIT text, so it travels inside the ZIP
     reference/            the pasteable prompt, worksheets, and the invented example
 ```
+
+Each skill folder carries its own copy of the MIT `LICENSE`. The MIT text requires the copyright
+and permission notice to travel with copies, and the download is a copy of one folder, not of the
+whole repository.
 
 Each skill is released independently, tagged `<skill-name>-v<version>`, with the skill's ZIP
 attached as the release asset. Adding a future skill means adding a folder, a row in the table at

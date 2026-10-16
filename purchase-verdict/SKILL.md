@@ -247,3 +247,4 @@ Fill `reference/verdict-one-pager.md`. Every number on it carries the record tha
 - `reference/source-manifest-worksheet.md` the input worksheet
 - `reference/verdict-one-pager.md` the output template
 - `reference/worked-example-invented.md` one fully invented example, end to end
+- `LICENSE` the MIT license this package is released under
