@@ -41,7 +41,8 @@ which one your own records actually support.
 
 ### What you need before you start
 
-You do not need a developer, a license, or an account anywhere. You need records:
+You do not need a developer, and there is nothing to buy. Routes 1 and 2 use whatever AI assistant
+you already have at work, and Route 3 uses no AI at all. What you do need is records:
 
 - One failure you can evidence on both sides, with the transaction records that show it.
 - The integration, rejection, or error log covering that window. **Export this first.** These logs
