@@ -156,7 +156,7 @@ case the evidence does not settle. It is not a customer story and none of its re
 Optional, and only if you care to. The SHA-256 of `purchase-verdict-v1.0.zip` is:
 
 ```
-422e242b597e66936b843d870e17eb95311175323e1a2b9f184f0116c227f6ae
+4afa53efc1be0eb03822188afbc0bba9f3aa5c60924905711bb7b5c9b531c13c
 ```
 
 To check your copy against it:
